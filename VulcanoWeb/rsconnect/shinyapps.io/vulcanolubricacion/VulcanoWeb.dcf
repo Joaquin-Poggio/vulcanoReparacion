@@ -1,0 +1,13 @@
+name: VulcanoWeb
+title: VulcanoWeb
+username:
+account: vulcanolubricacion
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5683956
+bundleId: 5601682
+url: https://vulcanolubricacion.shinyapps.io/VulcanoWeb/
+when: 1645443263.02592
+lastSyncTime: 1645443263.02592
+asMultiple: FALSE
+asStatic: FALSE
